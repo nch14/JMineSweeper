@@ -1,5 +1,5 @@
 package edu.nju.view.listener;
-//这就只是一行注释
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
